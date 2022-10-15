@@ -27,7 +27,12 @@ void main(List<String> args) {
   for (String iter in a ){
     if (iter == "user"){
       print("it found at $iter");
+      // using break statement
       break;
+    }
+    else { 
+      //  continue
+      continue;
     }
   }
 }

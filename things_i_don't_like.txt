@@ -1,0 +1,5 @@
+semicolons 
+need to define type on each var creation 
+no this is not my first programming language !!
+
+# skipped while and do-while in this folder 
