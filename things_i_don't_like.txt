@@ -1,0 +1,12 @@
+# reason to not to choose as first language
+
+
+1) complex to read
+2) semicolons
+3) takes way more time for ds
+
+
+# reason i like
+
+1) strong class behaviours
+2) easy of objects access and override
