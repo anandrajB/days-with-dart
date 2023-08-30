@@ -1,9 +1,9 @@
-Future<void> fetchusername() {
+Future<void> getuser() {
   return Future.delayed(const Duration(seconds: 2), () => print('anand raj'));
 }
 
-// we can use a array with defined name and use random to pick random objects from the list 
+// the below code will await for 2 seconds and execute after the print statement 
 void main() {
-  fetchusername();
+  getuser();
   print('the username is ');
 }
