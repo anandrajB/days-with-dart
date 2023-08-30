@@ -6,7 +6,8 @@
 
 # i haven't covered these concepts like 
     - async 
-    - isolate
+    - isolate and workers
     - state managements
     - callable
     - metadata
+    - modifiers
