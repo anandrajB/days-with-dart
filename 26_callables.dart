@@ -18,6 +18,7 @@ void main() {
 
 
 // in the below example we can use multiple callable functions to change the class behaviour
+// unlike dunder method in python __str__ , __repr__ so on
 
 class Calculator2 {
   int call(int a, int b) {
