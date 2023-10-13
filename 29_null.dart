@@ -3,6 +3,6 @@ requireStringNotObject(String definitelyString) {
 }
 
 void main() {
-  Object maybeString = 'it is';
-  requireStringNotObject(maybeString);
+  Object thisisstring = "anand raj";
+  requireStringNotObject(thisisstring);
 }
